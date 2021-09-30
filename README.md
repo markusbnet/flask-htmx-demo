@@ -20,6 +20,7 @@ Pick an example and run the following from the root of the repository.
 ```bash
     python -m venv venv 
     source venv/bin/activate
+    pip install -r requirements.txt
     cd {chosen example}
     python -m flask run
 ```
