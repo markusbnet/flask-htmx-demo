@@ -1,6 +1,6 @@
 # ⚡️ Flask HTMX Demo
 
-This repository provides a demo of how to use HTMX with Flask to create, delete and order items within a table.
+This repository provides a demo of how to use HTMX with Flask to create, delete and order items within a table. You can read the accompanying ![blog here](https://medium.com/@markus_bnet/flask-and-htmx-45e7b54b28bc).
 
 3 examples can be found within the following folders:
 - flask-htmx-create - create items and see them dynamically add to a table.
